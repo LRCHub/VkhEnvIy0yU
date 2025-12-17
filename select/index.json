@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "YUBIKIRI-GENMAN (special edit)",
+  "base_artist": "Mili",
+  "createdAt": "2025-12-17T06:27:45.420837Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "YUBIKIRI-GENMAN - special edit",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_YUBIKIRI-GENMAN_-_special_edit_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "YUBIKIRI‐GENMAN (special edit)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_YUBIKIRI‐GENMAN_(special_edit)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YUBIKIRI-GENMAN -special edit-",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_YUBIKIRI-GENMAN_-special_edit-_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mili - YUBIKIRI-GENMAN -special edit-",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_Mili_-_YUBIKIRI-GENMAN_-special_edit-_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YUBIKIRI-GENMAN -special edit- inst",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/05_YUBIKIRI-GENMAN_-special_edit-_inst_Mili.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YUBIKIRI-GENMAN -special edit-",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_YUBIKIRI-GENMAN_-special_edit-_Mili.txt"
+    }
+  ]
+}
